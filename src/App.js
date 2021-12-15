@@ -41,7 +41,7 @@ function App() {
   return (
     <>
     
-      <Navbar tittle="Text-Format" mode={mode} toggleMode={toggleMode} />
+      <Navbar tittle="TextFormat" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container my-3">
 
